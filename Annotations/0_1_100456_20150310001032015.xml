@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>0_1_100456_20150310001032015</filename>
+  <path>augmented_data/0_1_100456_20150310001032015.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>565</width>
+    <height>485</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Polyp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>41</xmin>
+      <ymin>260</ymin>
+      <xmax>96</xmax>
+      <ymax>316</ymax>
+    </bndbox>
+  </object>
+</annotation>
