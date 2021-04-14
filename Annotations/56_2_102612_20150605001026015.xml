@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>56_2_102612_20150605001026015</filename>
+  <path>augmented_data/56_2_102612_20150605001026015.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>565</width>
+    <height>485</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Polyp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>254</xmin>
+      <ymin>221</ymin>
+      <xmax>307</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Polyp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>1.0</confidence>
+    <bndbox>
+      <xmin>337</xmin>
+      <ymin>270</ymin>
+      <xmax>396</xmax>
+      <ymax>326</ymax>
+    </bndbox>
+  </object>
+</annotation>
